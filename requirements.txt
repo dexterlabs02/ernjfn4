@@ -1,0 +1,6 @@
+# Project Grace Requirements
+
+# Python dependencies
+Flask==2.0.1
+requests==2.25.1
+numpy==1.21.2
